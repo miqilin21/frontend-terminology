@@ -1,5 +1,5 @@
 # frontend-terminology
-Collect FrontEnd Terminology—收集一些前端术语
+Collect FrontEnd Terminology—收集一些前端英语术语
 ## 前端常用英语词汇表
 
 ### A
